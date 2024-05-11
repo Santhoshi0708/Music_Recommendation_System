@@ -18,7 +18,7 @@ The Music Recommendation System is built using Streamlit, a Python library for c
 1. Clone the repository:
 
     ```
-    git clone <repository-url>
+    git clone (https://github.com/Santhoshi0708/Music_Recommendation_System)
     ```
 
 2. Install the required dependencies:
