@@ -11,7 +11,7 @@ def fetch_poster(music_title):
     return data['data']['topQuery']['results'][0]['image'][2]['url']
 
 # Read the CSV file containing music data
-df = pd.read_csv(r"C:\Users\santhoshi\OneDrive\Desktop\Santhoshi_Projects\Ml Projects\Music_recommendation\ex.csv")
+df = pd.read_csv("ex.csv")
 
 # Set the title of the web app
 st.title("Music Recommendation System")
