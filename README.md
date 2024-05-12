@@ -53,7 +53,7 @@ The song data used for recommendations can be obtained from various sources, inc
 - **APIs**: Utilized for fetching song data and poster URLs.
 
 ## Preview
-[Checkout Here]()
+[Checkout Here](https://music-recommendation-system-by-santhu0709.streamlit.app/)
 
 ## 🔗 Follow us
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kothapalli-santhoshi-368951254/)
